@@ -1,5 +1,5 @@
 {
-  "name": "react-gridstack",
+  "name": "react-grid-stack",
   "version": "0.1.4",
   "description": "React wrapper for gridstack.js",
   "main": "lib/index.js",
@@ -17,12 +17,12 @@
     "layout",
     "jquery"
   ],
-  "author": "Alejandro Mesa",
+  "author": "Rex Raphael",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pitrho/react-gridstack.git/issues"
+    "url": "https://github.com/juicycleff/react-gridstack.git/issues"
   },
-  "homepage": "https://github.com/pitrho/react-gridstack.git#readme",
+  "homepage": "https://github.com/juicycleff/react-gridstack.git#readme",
   "peerDependencies": {
     "react": ">= 0.14.7",
     "react-dom": ">= 0.14.5"
